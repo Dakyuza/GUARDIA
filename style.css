@@ -4,7 +4,9 @@ body.dark-mode {
 }
 
 canvas {
-  border-left-color : 2px solid gray;
-  border-radius : 3px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+  display: block;
+  background: #232323;
+  margin: 32px auto;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+  border: 2px solid #666;
 }

@@ -4,3 +4,6 @@ document.getElementById('ToggleTheme').onclick = function() {
 
 
 
+const mycanvas = document.getElementById("myCanvas");
+const ctx = mycanvas.getContext("2d");
+
